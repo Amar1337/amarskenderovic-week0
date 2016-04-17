@@ -1,4 +1,6 @@
 # amarskenderovic-week0
+by amar skenderovic: 11196041
+
 My first app where I had to make a working Mr.Potatohead.
 
 It's a pretty simple app with some basis functions:
